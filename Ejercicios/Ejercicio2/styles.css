@@ -8,3 +8,13 @@ h1{
 body{
     background-color: #ECE6BB;
 }
+
+table{
+    border: 2px solid goldenrod;
+}
+
+td{
+    border: 3px solid rgb(179, 169, 151);
+    text-align: center;
+    padding: 5px;
+}
