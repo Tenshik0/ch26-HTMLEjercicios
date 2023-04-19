@@ -1,8 +1,14 @@
 h1{
     font-family: 'Courgette', cursive;
+    color: rgb(92, 89, 86);
     text-align: center;
     margin: auto;
     
+}
+
+h2{
+    font-family: 'Courgette', cursive;
+    color: rgb(135, 105, 78);
 }
 
 body{
